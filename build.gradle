@@ -6,9 +6,6 @@ buildscript {
     dependencies {
         classpath "com.android.tools.build:gradle:4.1.0"
         classpath 'com.google.gms:google-services:4.2.0'
-        implementation 'com.github.spotbugs:spotbugs-annotations:4.8.5'
-        implementation 'com.puppycrawl.tools:checkstyle:10.18.2'
-        implementation 'net.sourceforge.pmd:pmd:7.6.0'
     }
 }
 
